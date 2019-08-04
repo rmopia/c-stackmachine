@@ -19,7 +19,6 @@ char *trim(char *str){
 
 
 int main(int argc, char *argv[]){
-    printf("Assignment #1-3, Robert Mopia, rmopia7587@sdsu.edu\n");
 
     STACK *st = MakeStack(64);
     char *token;
