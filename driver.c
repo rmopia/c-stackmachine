@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "prog1_2.h"
+#include "stackm.h"
 
 char *trim(char *str){
     int i;
