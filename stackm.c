@@ -1,4 +1,4 @@
-#include "prog1_2.h"
+#include "stackm.h"
 #include <stdio.h>
 #include <stdlib.h>
 
